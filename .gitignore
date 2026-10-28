@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Builds
+client/dist/
+server/dist/
+build/
+dist/
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+!server/.env.example
+!client/.env.example
+!server/.env.test
+
+# Databases / local dev tooling
+server/.pgdata/
+server/.pgtest/
+*.log
+npm-debug.log*
+logs/
+coverage/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Caches
+.vite/
+.eslintcache
