@@ -1,16 +1,16 @@
 # LearnMate
 
-[![CI](https://github.com/Tanuj-codes/learnmate.github/actions/workflows/ci.yml/badge.svg)](https://github.com/Tanuj-codes/learnmate.github/actions/workflows/ci.yml)
+[![CI](https://github.com/Tanuj-codes/learnmate/actions/workflows/ci.yml/badge.svg)](https://github.com/Tanuj-codes/learnmate/actions/workflows/ci.yml)
 
 A gamified learning and accountability platform. Learners work through short courses, prove understanding in **server-scored** quizzes, review flashcards, play verified mini-games, keep a daily XP goal, unlock achievements, and compete on a transparent knowledge leaderboard.
 
 Everything that affects XP, scores, streaks, badges, or rankings is calculated on the server. The browser only sends answers and pairings; it never sends a score.
 
-**Repository:** <https://github.com/Tanuj-codes/learnmate.github>
+**Repository:** <https://github.com/Tanuj-codes/learnmate>
 
 ```bash
-git clone https://github.com/Tanuj-codes/learnmate.github.git
-cd learnmate.github
+git clone https://github.com/Tanuj-codes/learnmate.git
+cd learnmate
 ```
 
 ---
